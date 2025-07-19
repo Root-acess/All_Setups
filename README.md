@@ -24,5 +24,5 @@ This repo contains bash scripts to help you quickly set up:
 ### 🔁 Clone the Repo
 
 ```bash
-git clone https://github.com/your-username/all-setups.git
+git clone https://github.com/Root-acess/All_Setups.git
 cd all-setups
